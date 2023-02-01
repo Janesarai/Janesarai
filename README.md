@@ -1,7 +1,7 @@
-### Hi there 
+
 <div id= "inicio" align="center">
     <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="200"/>
-    <h1 align="center">Hi, 😊 I'm ** Jane Sarai ** 👋</h1>
+    <h1 align="center">Hi, 😊 I'm  Jane Sarai 👋</h1>
     <h3 align="center">A full stack developer in training, always willing to learn.</h3>
 </div>
 ### About me
@@ -23,7 +23,7 @@
     </div>
 </div>
     ---
-### 📊 My Stats.
+<h3> 📊 My Stats </h3>
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janesarai&theme=jolly&hide_border=true&border_radius=4.8&mode=weekly)](https://git.io/streak-stats)
 
