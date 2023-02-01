@@ -25,9 +25,9 @@
     
 <h3> 📊 My Stats </h3>
 
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janesarai&theme=jolly&hide_border=true&border_radius=4.8&mode=weekly)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janesarai&theme=jolly&hide_border=true&border_radius=4.8&mode=weekly)](https://git.io/streak-stats)
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janesarai&show_icons=true&count_private=true&theme=tokyonight)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janesarai&show_icons=true&count_private=true&theme=tokyonight)
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usernameJanesarai)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janesarai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
