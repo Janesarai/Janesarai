@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 
 <div id= "inicio" align="center">
     <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="200"/>
-    <h1 align="center">Hi, 😊 I'm **Jane Sarai**</h1>
+    <h1 align="center">Hi, 😊 I'm ** Jane Sarai ** 👋</h1>
     <h3 align="center">A full stack developer in training, always willing to learn.</h3>
 </div>
----
 ### About me
 
 - 💻 I love learning programming.
