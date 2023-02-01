@@ -4,11 +4,11 @@
     <h1 align="center">Hi, 😊 I'm  Jane Sarai 👋</h1>
     <h3 align="center">A full stack developer in training, always willing to learn.</h3>
 </div>
-### About me
+<h3> About me </h3>
 
 - 💻 I love learning programming.
 - 📫 How to reach me saraipalaciosjane@gmail.com.
----
+
 
 <div align="left">
     <h3> 🔧 Languages and Tools</h3>
@@ -30,7 +30,7 @@
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janesarai&show_icons=true&count_private=true&theme=tokyonight)
 
     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usernameJanesarai)](https://github.com/anuraghazra/github-readme-stats)
-    ---
+    
 <!--
 **Janesarai/Janesarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
